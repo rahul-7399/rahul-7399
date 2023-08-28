@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahul-7399
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS,NextJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me out 
 
